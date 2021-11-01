@@ -1,0 +1,11 @@
+#Steps for running simulation in  Gromacs
+1. bash Step1.sh
+Enter the filename without extension
+Choose forcefield
+Choose 'SOL' for ion addition
+
+
+2. bash Step2.sh
+*Change the time in mdp files
+
+NOTE: Different ffs need different parameters for simulation, the mdp files for the respective ffs are in their folders
